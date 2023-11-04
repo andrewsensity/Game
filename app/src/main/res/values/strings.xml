@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="apple">Apple</string>
+    <string name="bananas">Bananas</string>
+    <string name="cherries">Cherries</string>
+    <string name="coconut">Coconut</string>
+    <string name="oranges">Oranges</string>
+    <string name="pears">Pears</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="watermelon">Watermelon</string>
+    <string name="kiwi">Kiwi</string>
+    <string name="pineapples">Pineapples</string>
+    <string name="lemon">Lemon</string>
+    <string name="grapes">Grapes</string>
+</resources>
